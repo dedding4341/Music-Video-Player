@@ -10,4 +10,4 @@ java -cp src/main/java runner.MusicPlayer
 ###NOTE###
 Youtube links used must include all aspects of the web address
 
-E.G: https://www.youtube.com/watch?v=y2ak_oBeC-I
+E.G: https://www.youtube.com/(rest of link here)
