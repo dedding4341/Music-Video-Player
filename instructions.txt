@@ -1,0 +1,13 @@
+In order to run this program first clone this repository. After you have cloned it, navigate to the location using either
+Terminal/Command Prompt. After locating the reposistory execute the following code to compile:
+
+javac -cp src/main/java src/main/java/runner/*.java src/main/java/model/*.java src/main/java/view/*.java src/main/java/controller/*.java
+
+And execute the following code to run:
+
+java -cp src/main/java runner.MusicPlayer
+
+###NOTE###
+Youtube links used must include all aspects of the web address
+
+E.G: https://www.youtube.com/watch?v=y2ak_oBeC-I
